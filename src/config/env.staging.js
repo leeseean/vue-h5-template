@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'vue-h5-template',
+  title: '腾讯医典',
   baseUrl: 'https://test.xxx.com', // 测试项目地址
   baseApi: 'https://test.xxx.com', // 测试api请求地址
   api: {
